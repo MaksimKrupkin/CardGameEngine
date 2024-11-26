@@ -1,0 +1,14 @@
+E:\Backend\Csharp\CardGameEngine\CardGameEngine\bin\Debug\net8.0\CardGameEngine.exe
+E:\Backend\Csharp\CardGameEngine\CardGameEngine\bin\Debug\net8.0\CardGameEngine.deps.json
+E:\Backend\Csharp\CardGameEngine\CardGameEngine\bin\Debug\net8.0\CardGameEngine.runtimeconfig.json
+E:\Backend\Csharp\CardGameEngine\CardGameEngine\bin\Debug\net8.0\CardGameEngine.dll
+E:\Backend\Csharp\CardGameEngine\CardGameEngine\bin\Debug\net8.0\CardGameEngine.pdb
+E:\Backend\Csharp\CardGameEngine\CardGameEngine\obj\Debug\net8.0\CardGameEngine.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend\Csharp\CardGameEngine\CardGameEngine\obj\Debug\net8.0\CardGameEngine.AssemblyInfoInputs.cache
+E:\Backend\Csharp\CardGameEngine\CardGameEngine\obj\Debug\net8.0\CardGameEngine.AssemblyInfo.cs
+E:\Backend\Csharp\CardGameEngine\CardGameEngine\obj\Debug\net8.0\CardGameEngine.csproj.CoreCompileInputs.cache
+E:\Backend\Csharp\CardGameEngine\CardGameEngine\obj\Debug\net8.0\CardGameEngine.dll
+E:\Backend\Csharp\CardGameEngine\CardGameEngine\obj\Debug\net8.0\refint\CardGameEngine.dll
+E:\Backend\Csharp\CardGameEngine\CardGameEngine\obj\Debug\net8.0\CardGameEngine.pdb
+E:\Backend\Csharp\CardGameEngine\CardGameEngine\obj\Debug\net8.0\CardGameEngine.genruntimeconfig.cache
+E:\Backend\Csharp\CardGameEngine\CardGameEngine\obj\Debug\net8.0\ref\CardGameEngine.dll
